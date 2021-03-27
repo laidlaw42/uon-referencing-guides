@@ -1,15 +1,4 @@
 ## EndNote Styles for UoN Harvard Referencing
-
-
-
-
-## Table of Contents
-* [Introduction](#introduction)
-* [Getting Started](#getting-started)
-
----
-
-### Introduction
 This is a place to store my EndNote style guides for scientific writing.
 
 
