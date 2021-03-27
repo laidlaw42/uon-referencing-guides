@@ -23,7 +23,7 @@ This is a place to store my EndNote style guides for scientific writing.
 
 - You can make changes to the style from the menu bar: `Edit` → `Output Styles` → `Edit Style`
 
-NOTE: details of the original author of the Hardvard_UON style are in the Comments and Limitations of the style.
+NOTE: details of the original author of the 'Hardvard_UON' style are in the 'Comments and Limitations' section of the style.
 The following are modifications I have made to align with the guides by [UoN](https://libguides.newcastle.edu.au/referencing/harvard) annd [Monash](https://guides.lib.monash.edu/c.php?g=219786&p=1454230):
 - Added or modified the templates for:
   - datasets
