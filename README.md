@@ -16,8 +16,8 @@ This is a place to store my EndNote style guides for scientific writing.
 - Double-click to open the `.ens` style file e.g. `Harvard_UoN.ens`
 - A new window will open up in EndNote with information about the style and options to edit it
 - Go to `File` → `Save As`
-- Allocate a name or just leave the default then press `Save`
-- The style is now selectable in the "Bibliographic Style Output" drop down menu as below:
+- Allocate a name or just leave the default name, then press `Save`
+- The style is now selectable in the `Bibliographic Style Output` drop down menu as below:
 
 ![Bibliographic Style Output](https://raw.githubusercontent.com/laidlaw42/uon-referencing-guides/main/images/EN_bos.png)
 
