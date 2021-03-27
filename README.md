@@ -12,7 +12,7 @@ This is a place to store my EndNote style guides for scientific writing.
 
 ---
 ### Installing styles
-- Download a [style](https://github.com/laidlaw42/uon-referencing-guides/styles/)
+- Download a [style](https://github.com/laidlaw42/uon-referencing-guides/tree/main/styles)
 - Double-click to open the `.ens` style file e.g. `Harvard_UoN.ens`
 - A new window will open up in EndNote with information about the style and options to edit it
 - Go to `File` → `Save As`
