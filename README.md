@@ -4,7 +4,7 @@ This is a place to store my EndNote style guides for scientific writing.
 
 ---
 ### Before you start
-- [Download and install EndNote using these instructions](https://libguides.newcastle.edu.au/endnote), and read the 'Introduction to EndNote X9 UON Guide' for a more in-depth breakdown of setup and basic functionality
+- Download and install EndNote from here: https://libguides.newcastle.edu.au/endnote, and read the 'Introduction to EndNote X9 UON Guide' for a more in-depth breakdown of setup and basic functionality
 - Launch EndNote
 - Go to `File` → `New...` and create a new library in your directory of choice, ~/Documents/EndNote is recommended.
 
